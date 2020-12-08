@@ -6,8 +6,6 @@ Foundations of Programming: Python
 
 Assignment 07
 
-GitHub Link: https://github.com/kbangen/IntroToProg-Python-Mod07-
-
 # Pickling and Error Handling
 
 ## Introduction
